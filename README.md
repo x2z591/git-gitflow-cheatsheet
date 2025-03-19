@@ -10,7 +10,7 @@ Ce cheat sheet couvre les commandes essentielles pour **Git** et **GitFlow** afi
    - [1.1.1 C'est quoi Git ? ](introduction-a-git.md)
    - [1.1.2 Pourquoi adopter Git ? ](introduction-a-git.md)
    - [1.1.3 Comment utiliser Git au quotidien ?](introduction-a-git.md)
-   - [1.1.4 Quelle différence existe-t-il entre Git et GitHub ](git/introduction-a-git.md)
+   - [1.1.4 Quelle différence existe-t-il entre Git et GitHub ?](git/introduction-a-git.md)
 
 ## 1.2 Installation et configuration de Git
 
